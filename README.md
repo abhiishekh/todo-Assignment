@@ -3,8 +3,11 @@
 A simple Todo List application built with React for the frontend and Node.js with Express for the backend. The app allows users to manage tasks with features like adding, updating, deleting, and marking tasks as completed.
 
 ---
+### Image
+
 
 ## Features
+![Screenshot from 2024-11-22 12-56-30](https://github.com/user-attachments/assets/61574479-4705-42c7-bb83-6accc91acb8b)
 
 - **Create Todo**: Add new tasks with a title, description, and deadline.
 - **Update Todo**: Edit the task's details.
